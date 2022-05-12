@@ -1,5 +1,5 @@
-# Student-management-System (with Python)
-## My projects shown on below : -
+# 👨‍🎓👨‍💼Student-management-System (with Python)👨‍💼
+## 🙏🙏My projects shown on below : -👨‍💼
 
 ![Screenshot (81)](https://user-images.githubusercontent.com/68802755/168091550-7991c54c-ab44-4f59-81b3-06051f813bcb.png)
 ![Screenshot (83)](https://user-images.githubusercontent.com/68802755/168091567-fc485a56-8f5a-442c-832a-1e61460d7296.png)
